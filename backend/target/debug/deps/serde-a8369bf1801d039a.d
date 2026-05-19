@@ -1,0 +1,12 @@
+C:\Users\Hp\Documents\Allprojects\job portal\backend\target\debug\deps\serde-a8369bf1801d039a.d: C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Hp\Documents\Allprojects\job\ portal\backend\target\debug\build\serde-7c1a4b1d7a604a2d\out/private.rs
+
+C:\Users\Hp\Documents\Allprojects\job portal\backend\target\debug\deps\libserde-a8369bf1801d039a.rmeta: C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Hp\Documents\Allprojects\job\ portal\backend\target\debug\build\serde-7c1a4b1d7a604a2d\out/private.rs
+
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Hp\Documents\Allprojects\job\ portal\backend\target\debug\build\serde-7c1a4b1d7a604a2d\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Hp\\Documents\\Allprojects\\job portal\\backend\\target\\debug\\build\\serde-7c1a4b1d7a604a2d\\out

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f3f4f6;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+p,
+th,
+td,
+button {
+  color: black;
+  opacity: 1;
+}
+
+button {
+  font-weight: bold;
+}
